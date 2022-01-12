@@ -9,7 +9,7 @@ class MenuScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Menue screen'),
+        title: Text('Menu screen'),
       ),
       body: Container(
         child: Center(
