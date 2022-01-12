@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:testtask20220111/screens/authScreen.dart';
 
 import 'screens/menuScreen.dart';
 
@@ -17,6 +18,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: MenuScreen(),
+      // home: AuthScreen(),
+      // home: SetupPINScreen(),
     );
   }
 }
