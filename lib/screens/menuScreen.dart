@@ -23,7 +23,7 @@ class MenuScreen extends StatelessWidget {
                     Navigator.push(context,
                         MaterialPageRoute(builder: (context) => AuthScreen()));
                   },
-                  child: Text('Autentification')),
+                  child: Text('Authentification')),
               SizedBox(
                 width: 20.0,
               ),

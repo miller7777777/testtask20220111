@@ -11,7 +11,7 @@ class _AuthScreenState extends State<AuthScreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Autentification screen'),
+        title: Text('Authentification screen'),
       ),
       body: Container(),
     );
